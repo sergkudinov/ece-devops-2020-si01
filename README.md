@@ -7,4 +7,4 @@ Some description
 - feature 1
 - feature 2
 - another feature 3
-- user
+- user page
